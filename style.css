@@ -1,0 +1,133 @@
+Body { 
+
+    Font-family: Arial, sans-serif; 
+
+    Margin: 0; 
+
+    Padding: 0; 
+
+    Background-color: #f4f4f4; 
+
+} 
+
+ 
+
+Header { 
+
+    Background: #333; 
+
+    Color: white; 
+
+    Padding: 20px; 
+
+    Text-align: center; 
+
+} 
+
+ 
+
+.hero { 
+
+    Text-align: center; 
+
+    Padding: 20px; 
+
+} 
+
+ 
+
+.hero img { 
+
+    Max-width: 100%; 
+
+    Height: auto; 
+
+    Margin: 10px 0; 
+
+} 
+
+ 
+
+.subscription { 
+
+    Text-align: center; 
+
+    Padding: 20px; 
+
+} 
+
+ 
+
+.plans { 
+
+    Display: flex; 
+
+    Justify-content: center; 
+
+    Gap: 20px; 
+
+} 
+
+ 
+
+.plan { 
+
+    Background: white; 
+
+    Border: 1px solid #ccc; 
+
+    Border-radius: 8px; 
+
+    Padding: 20px; 
+
+    Width: 200px; 
+
+    Text-align: center; 
+
+} 
+
+ 
+
+Button { 
+
+    Background-color: #28ª745; 
+
+    Color: white; 
+
+    Border: none; 
+
+    Border-radius: 5px; 
+
+    Padding: 10px; 
+
+    Cursor: pointer; 
+
+} 
+
+ 
+
+Button:hover { 
+
+    Background-color: #218838; 
+
+} 
+
+ 
+
+Footer { 
+
+    Text-align: center; 
+
+    Padding: 20px; 
+
+    Background: #333; 
+
+    Color: white; 
+
+    Position: relative; 
+
+    Bottom: 0; 
+
+    Width: 100%; 
+
+} 
